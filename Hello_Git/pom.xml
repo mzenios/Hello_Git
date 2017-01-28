@@ -3,4 +3,7 @@
   <groupId>com.marios.zenios.test</groupId>
   <artifactId>Hello_Git</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+  <dependencies>
+  </dependencies>
 </project>
